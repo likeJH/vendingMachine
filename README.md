@@ -1,4 +1,4 @@
 ## vendingMachine
 
-Vending Machine Clone Coding
-https://likejh.github.io/vendingMachine/
+- Vending Machine Clone Coding
+- https://likejh.github.io/vendingMachine/
